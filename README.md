@@ -1,3 +1,5 @@
+**Entwicklung nur auf [GitLab](https://gitlab.com/ToolboxBodensee/kueche/MoldMonitor). Auf GitHub befindet sich lediglich ein Mirror**
+
 Everyone should know this: Your fridge is loaded with vegetables, meat und fruits and after some days, things you don't even remember start to mold. Our MoldMonitor solves this problem.
 
 The MoldMonitor as you can see on the images is a small microcontroller attached to a display, a button and a potentiometer. Brought together in a nice case that you can clip right on a can in your fridge or attach it on the outside of your fridge.
